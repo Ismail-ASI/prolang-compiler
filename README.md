@@ -357,9 +357,14 @@ The generated files (`lex.yy.c`, `syntaxique.tab.*`) are committed for convenien
 
 ---
 
-## Author
+## Authors
 
-*Add your name and university/module here — e.g. "Built by ... , M1 Informatique Visuelle, Compilation, 2025–2026."*
+This compiler was designed and built collaboratively by two students, as a project for the Compiler Construction (*Compilation*) module, M1 Informatique Visuelle, 2025–2026:
+
+- **[YOUR_NAME]** — [github.com/Ismail-ASI](https://github.com/Ismail-ASI)
+- **Abdennour** — [github.com/abdennourbd](https://github.com/abdennourbd)
+
+Questions, issues, and suggestions are welcome — feel free to open an issue on the repository.
 
 ## License
 
